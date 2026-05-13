@@ -45,7 +45,7 @@
 ```python
 class RohitDeshmukh:
     def __init__(self):
-        self.role         = "Pre-Final Year B.Tech CSE core"
+        self.role         = "Pre-Final Year B.Tech CSE (AI & ML)"
         self.university   = "MIT World Peace University, Pune"
         self.graduating   = 2027
 
@@ -195,12 +195,8 @@ class RohitDeshmukh:
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE / COMMIT GRID -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohitDeshmukh-1/RohitDeshmukh-1/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohitDeshmukh-1/RohitDeshmukh-1/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RohitDeshmukh-1/RohitDeshmukh-1/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://raw.githubusercontent.com/RohitDeshmukh-1/RohitDeshmukh-1/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
 </div>
 
 <br/>
