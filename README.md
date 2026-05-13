@@ -45,7 +45,7 @@
 ```python
 class RohitDeshmukh:
     def __init__(self):
-        self.role         = "Pre-Final Year B.Tech CSE (AI & ML)"
+        self.role         = "Pre-Final Year B.Tech CSE core"
         self.university   = "MIT World Peace University, Pune"
         self.graduating   = 2027
 
