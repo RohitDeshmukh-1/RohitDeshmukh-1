@@ -109,23 +109,23 @@ class RohitDeshmukh:
 
 <!-- PROJECT 1 -->
 <details open>
-<summary><b>🛰️ &nbsp; Satellite-Based Disaster Damage Assessment</b></summary>
+<summary><b>📊 &nbsp; Autonomous Multi-Agent Data Analytics System</b></summary>
 <br/>
 
-> **Stack:** `PyTorch` · `Siamese U-Net` · `Remote Sensing` · `FastAPI` · `Docker` · `Computer Vision`
+> **Stack:** `LangGraph` · `Llama 3.1` · `FastAPI` · `React` · `PostgreSQL (Neon)` · `Docker`
 
 | Metric | Value |
 |--------|-------|
-| 🎯 Test Accuracy | **91%** |
-| ⚡ GPU Memory Reduction | **40%** via mixed-precision |
-| 🚀 Inference Latency | **< 200ms per tile** |
-| 📦 Deploy Time | **< 5 minutes** via Docker |
+| 🧠 Agent Capabilities | Autonomous SQL generation, AST Sandboxing, Error Self-Correction |
+| 📈 Automated Insights | Dynamic anomaly detection and Plotly chart generation |
+| 🛡️ Security | Read-only session isolation, symmetric key ciphering |
+| 🚀 Deployment | 100% Free Tier (HF Spaces + Neon + Upstash Redis) |
 
-- Trained a **Siamese U-Net** to detect building damage from before/after satellite image pairs on the **xBD dataset**
-- Built a **FastAPI backend** serving damage predictions with an interactive map dashboard for affected region visualization
-- Packaged full pipeline (preprocessing → inference → visualization) into a **Docker container with CI/CD**
+- Designed a **LangGraph-based multi-agent system** that transforms natural language queries into safe, isolated database operations.
+- Built a robust safety layer involving **Abstract Syntax Tree (AST) validation** to block destructive operations and restricted Python sandboxing.
+- Packaged as a full-stack containerized application (FastAPI + Vite/React) with automatic CI/CD deployment to **Hugging Face Spaces**.
 
-[![GitHub](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/RohitDeshmukh-1/Disaster_Damage_Assessment)
+[![GitHub](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/RohitDeshmukh-1/Autonomous-Multi-Agent-Data-Analytics-System-)
 
 </details>
 
