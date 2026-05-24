@@ -1,18 +1,44 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a3e,100:0d1b4b&height=200&section=header&text=ROHIT%20DESHMUKH&fontSize=52&fontColor=c8d8ff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20MLOps&descAlignY=60&descSize=16&descFontColor=8899cc&animation=fadeIn"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🌌 COSMIC HEADER BANNER                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0a001a,30:0d0026,50:1a0033,70:0d0026,85:0a001a,100:000000&height=230&section=header&text=ROHIT%20DESHMUKH&fontSize=58&fontColor=b388ff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20Architect%20%E2%80%A2%20MLOps&descAlignY=58&descSize=16&descFontColor=7c4dff&animation=fadeIn"/>
+
+<!-- BLACK HOLE ACCRETION DISK ASCII -->
+```
+                          ·  ✦
+                    ✧         ★    ·
+               ·        ◉ ◉ ◉
+            ★       ◉ ◉ ◉ ◉ ◉ ◉       ✦
+          ·      ◉ ◉ ◉  ⬤⬤⬤  ◉ ◉ ◉
+         ✦     ◉ ◉ ◉ ⬤⬤   ⬤⬤ ◉ ◉ ◉     ★
+          ·      ◉ ◉ ◉  ⬤⬤⬤  ◉ ◉ ◉
+            ★       ◉ ◉ ◉ ◉ ◉ ◉       ·
+               ✦        ◉ ◉ ◉        ★
+                    ·         ✧
+                          ★  ·
+       ─── [ TRANSMITTING FROM THE EVENT HORIZON ] ───
+```
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=7EB8F7&center=true&vCenter=true&width=700&lines=Building+agentic+AI+systems+that+actually+work;Turning+research+papers+into+production+code;LangGraph+%7C+PyTorch+%7C+FastAPI+%7C+LLMs;CS+%40+MIT+World+Peace+University+%E2%80%A2+2027;Obsessed+with+shipping+AI+to+production+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%E2%9C%A6+Building+agentic+AI+that+bends+spacetime+%E2%9C%A6;%F0%9F%8C%80+LangGraph+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+LLMs+%C2%B7+MLOps;%F0%9F%9A%80+Shipping+AI+to+production+from+the+singularity" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     🔗 SOCIAL BADGES                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <a href="https://www.linkedin.com/in/rohit-deshmukh-735b82203/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@rohitdeshmukh318">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/RohitDeshmukh-1">
@@ -23,27 +49,38 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=RohitDeshmukh-1&color=1f4e79&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=RohitDeshmukh-1&color=6a1b9a&style=for-the-badge&label=OBSERVERS"/>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               🌑 GRAVITATIONAL DIVIDER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🛸 ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║              ✦  SIGNAL RECEIVED FROM SECTOR 7G  ✦            ║
-╚══════════════════════════════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════════════════════════════╗
+ ║   ✦  ·  ★  ·  ✧  ·  ✦   SIGNAL INTERCEPTED   ✦  ·  ✧  ·  ★  ·  ✦  ║
+ ║               📡 FROM BEYOND THE EVENT HORIZON 📡                    ║
+ ║   ·  ★  ·  ✦  ·  ✧  · SOURCE: SECTOR 7G-PRIME ·  ✧  ·  ✦  ·  ★  · ║
+ ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ```python
 class RohitDeshmukh:
+    """An entity orbiting the singularity of AI/ML engineering."""
+
     def __init__(self):
         self.role         = "Pre-Final Year B.Tech CSE (AI & ML)"
         self.university   = "MIT World Peace University, Pune"
@@ -60,72 +97,111 @@ class RohitDeshmukh:
 
     def __str__(self):
         return "Not just training models — deploying them, monitoring them, fixing them."
+
+    def gravitational_pull(self):
+        return "So strong that even bad code can't escape my review process."
 ```
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✦ &nbsp; Tech Arsenal
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ⚡ TECH ARSENAL                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Stellar Tech Arsenal
 
 <div align="center">
 
-**Languages & Web**
+```
+               ·  ✧  ·  ·  ★  ·  ✦  ·  ·  ·  ✧  ·
+          WEAPONS SYSTEMS — FULLY OPERATIONAL
+               ✦  ·  ·  ✧  ·  ·  ★  ·  ✦  ·  ·  ★
+```
 
-![Python](https://img.shields.io/badge/Python-1e2a4a?style=flat-square&logo=python&logoColor=4fc3f7)
-![C++](https://img.shields.io/badge/C++-1e2a4a?style=flat-square&logo=cplusplus&logoColor=4fc3f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e2a4a?style=flat-square&logo=javascript&logoColor=f9ca24)
-![SQL](https://img.shields.io/badge/SQL-1e2a4a?style=flat-square&logo=postgresql&logoColor=4fc3f7)
-![React](https://img.shields.io/badge/React-1e2a4a?style=flat-square&logo=react&logoColor=61dafb)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1e2a4a?style=flat-square&logo=html5&logoColor=e06c75)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1e2a4a?style=flat-square&logo=fastapi&logoColor=4fc3f7)
+<br/>
 
-**ML / AI Frameworks**
+**`🌌 LANGUAGES & WEB`**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1e2a4a?style=flat-square&logo=pytorch&logoColor=ee4c2c)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1e2a4a?style=flat-square&logo=huggingface&logoColor=ffd21e)
-![LangChain](https://img.shields.io/badge/LangChain-1e2a4a?style=flat-square&logo=chainlink&logoColor=4fc3f7)
-![LangGraph](https://img.shields.io/badge/LangGraph-1e2a4a?style=flat-square&logo=graphql&logoColor=e10098)
-![FastAPI](https://img.shields.io/badge/FastAPI-1e2a4a?style=flat-square&logo=fastapi&logoColor=009688)
-![OpenCV](https://img.shields.io/badge/OpenCV-1e2a4a?style=flat-square&logo=opencv&logoColor=5c3ee8)
-![FAISS](https://img.shields.io/badge/FAISS-1e2a4a?style=flat-square&logo=meta&logoColor=4fc3f7)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1e2a4a?style=flat-square&logo=databricks&logoColor=ff6f3c)
+![Python](https://img.shields.io/badge/Python-0d001a?style=for-the-badge&logo=python&logoColor=b388ff)
+![C++](https://img.shields.io/badge/C++-0d001a?style=for-the-badge&logo=cplusplus&logoColor=7c4dff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d001a?style=for-the-badge&logo=javascript&logoColor=ffd740)
+![SQL](https://img.shields.io/badge/SQL-0d001a?style=for-the-badge&logo=postgresql&logoColor=b388ff)
+![React](https://img.shields.io/badge/React-0d001a?style=for-the-badge&logo=react&logoColor=7c4dff)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0d001a?style=for-the-badge&logo=html5&logoColor=ea80fc)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d001a?style=for-the-badge&logo=fastapi&logoColor=b388ff)
 
-**Infra & DevOps**
+**`🔮 ML / AI FRAMEWORKS`**
 
-![Docker](https://img.shields.io/badge/Docker-1e2a4a?style=flat-square&logo=docker&logoColor=2496ed)
-![AWS](https://img.shields.io/badge/AWS-1e2a4a?style=flat-square&logo=amazonaws&logoColor=ff9900)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e2a4a?style=flat-square&logo=githubactions&logoColor=2088ff)
-![Linux](https://img.shields.io/badge/Linux-1e2a4a?style=flat-square&logo=linux&logoColor=fcc624)
-![Git](https://img.shields.io/badge/Git-1e2a4a?style=flat-square&logo=git&logoColor=f05032)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d001a?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d001a?style=for-the-badge&logo=huggingface&logoColor=ffd21e)
+![LangChain](https://img.shields.io/badge/LangChain-0d001a?style=for-the-badge&logo=chainlink&logoColor=b388ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d001a?style=for-the-badge&logo=graphql&logoColor=ea80fc)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d001a?style=for-the-badge&logo=fastapi&logoColor=7c4dff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d001a?style=for-the-badge&logo=opencv&logoColor=b388ff)
+![FAISS](https://img.shields.io/badge/FAISS-0d001a?style=for-the-badge&logo=meta&logoColor=7c4dff)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d001a?style=for-the-badge&logo=databricks&logoColor=ea80fc)
+
+**`🛰️ INFRA & DEVOPS`**
+
+![Docker](https://img.shields.io/badge/Docker-0d001a?style=for-the-badge&logo=docker&logoColor=b388ff)
+![AWS](https://img.shields.io/badge/AWS-0d001a?style=for-the-badge&logo=amazonaws&logoColor=ffd740)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d001a?style=for-the-badge&logo=githubactions&logoColor=7c4dff)
+![Linux](https://img.shields.io/badge/Linux-0d001a?style=for-the-badge&logo=linux&logoColor=ea80fc)
+![Git](https://img.shields.io/badge/Git-0d001a?style=for-the-badge&logo=git&logoColor=b388ff)
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✦ &nbsp; Mission Log — Projects
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  🚀 PROJECTS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌀 &nbsp; Mission Log — Deep Space Projects
+
+<div align="center">
+
+```
+    ★  ·  ✦  ·  ★  ·  ·  ✧  ·  ★  ·  ✦  ·  ·  ★
+       CLASSIFIED MISSION DOSSIERS — CLEARANCE: ∞
+    ·  ✧  ·  ★  ·  ✦  ·  ·  ★  ·  ✧  ·  ✦  ·  ★
+```
+
+</div>
 
 <!-- PROJECT 1 -->
 <details open>
-<summary><b>📊 &nbsp; Autonomous Multi-Agent Data Analytics System</b></summary>
+<summary><b>🌌 &nbsp; Autonomous Multi-Agent Data Analytics System</b></summary>
 <br/>
 
-> **Stack:** `LangGraph` · `Llama 3.1` · `FastAPI` · `React` · `PostgreSQL (Neon)` · `Docker`
+> **`🛸 STACK:`** `LangGraph` · `Llama 3.1` · `FastAPI` · `React` · `PostgreSQL (Neon)` · `Docker`
 
-| Metric | Value |
-|--------|-------|
-| 🧠 Agent Capabilities | Autonomous SQL generation, AST Sandboxing, Error Self-Correction |
-| 📈 Automated Insights | Dynamic anomaly detection and Plotly chart generation |
-| 🛡️ Security | Read-only session isolation, symmetric key ciphering |
-| 🚀 Deployment | 100% Free Tier (HF Spaces + Neon + Upstash Redis) |
+<div align="center">
+
+| 🌑 Metric | ✦ Value |
+|---|---|
+| 🧠 **Agent Capabilities** | Autonomous SQL generation, AST Sandboxing, Error Self-Correction |
+| 📈 **Automated Insights** | Dynamic anomaly detection and Plotly chart generation |
+| 🛡️ **Security** | Read-only session isolation, symmetric key ciphering |
+| 🚀 **Deployment** | 100% Free Tier (HF Spaces + Neon + Upstash Redis) |
+
+</div>
 
 - Designed a **LangGraph-based multi-agent system** that transforms natural language queries into safe, isolated database operations.
 - Built a robust safety layer involving **Abstract Syntax Tree (AST) validation** to block destructive operations and restricted Python sandboxing.
 - Packaged as a full-stack containerized application (FastAPI + Vite/React) with automatic CI/CD deployment to **Hugging Face Spaces**.
 
-[![GitHub](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/RohitDeshmukh-1/Autonomous-Multi-Agent-Data-Analytics-System-)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/🔭_View_Repository-1a0033?style=for-the-badge&logo=github&logoColor=b388ff)](https://github.com/RohitDeshmukh-1/Autonomous-Multi-Agent-Data-Analytics-System-)
+&nbsp;
+[![Article](https://img.shields.io/badge/📖_Read_Article-1a0033?style=for-the-badge&logo=medium&logoColor=ea80fc)](https://medium.com/@rohitdeshmukh318/static-dashboards-are-dying-inside-an-autonomous-analytics-agent-04d871b32c07)
+
+</div>
 
 </details>
 
@@ -136,20 +212,28 @@ class RohitDeshmukh:
 <summary><b>🔭 &nbsp; Hallucination-Controlled RAG for Scientific Documents</b></summary>
 <br/>
 
-> **Stack:** `LLMs` · `FastAPI` · `FAISS` · `React` · `HuggingFace` · `Docker` · `GitHub Actions`
+> **`🛸 STACK:`** `LLMs` · `FastAPI` · `FAISS` · `React` · `HuggingFace` · `Docker` · `GitHub Actions`
 
-| Metric | Value |
-|--------|-------|
-| 📚 Corpus Scale | **10,000+ pages** |
-| ✅ Answer Faithfulness | **87%** vs **61%** baseline |
-| 🚫 Unsupported Claims Reduced | **~74%** |
-| ⚡ Query Response Time | **< 1.8s on single GPU** |
+<div align="center">
+
+| 🌑 Metric | ✦ Value |
+|---|---|
+| 📚 **Corpus Scale** | **10,000+ pages** |
+| ✅ **Answer Faithfulness** | **87%** vs **61%** baseline |
+| 🚫 **Unsupported Claims Reduced** | **~74%** |
+| ⚡ **Query Response Time** | **< 1.8s on single GPU** |
+
+</div>
 
 - Built a **5-stage retrieval pipeline** (chunking → query rewriting → vector search → reranking → generation)
 - Added a **sentence-level fact-checking layer** cross-referencing every claim against retrieved sources
 - Served via **FastAPI + FAISS** with React frontend; one-command deploy via Docker + GitHub Actions
 
-[![GitHub](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/RohitDeshmukh-1/hallucination_controlled_rag)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/🔭_View_Repository-1a0033?style=for-the-badge&logo=github&logoColor=b388ff)](https://github.com/RohitDeshmukh-1/hallucination_controlled_rag)
+
+</div>
 
 </details>
 
@@ -160,38 +244,58 @@ class RohitDeshmukh:
 <summary><b>🤖 &nbsp; TaskPilot: Multi-Agent Task Automation via Telegram</b></summary>
 <br/>
 
-> **Stack:** `LangGraph` · `Llama 3.3-70B` · `FastAPI` · `APScheduler` · `PostgreSQL` · `Docker`
+> **`🛸 STACK:`** `LangGraph` · `Llama 3.3-70B` · `FastAPI` · `APScheduler` · `PostgreSQL` · `Docker`
 
-| Metric | Value |
-|--------|-------|
-| 🧠 Agents Orchestrated | **6** (Router, Planner, Tracker, Analyzer, Goal Setter, Chat) |
-| 🧪 Test Coverage | **85%+** with pytest |
-| 🗄️ Backend | Async **PostgreSQL** on Railway |
-| 🔄 Deploy Mode | Webhook + Polling, zero-downtime Docker |
+<div align="center">
+
+| 🌑 Metric | ✦ Value |
+|---|---|
+| 🧠 **Agents Orchestrated** | **6** (Router, Planner, Tracker, Analyzer, Goal Setter, Chat) |
+| 🧪 **Test Coverage** | **85%+** with pytest |
+| 🗄️ **Backend** | Async **PostgreSQL** on Railway |
+| 🔄 **Deploy Mode** | Webhook + Polling, zero-downtime Docker |
+
+</div>
 
 - Parses plain-text Telegram messages into structured tasks, priorities, and recurrence rules — **no user formatting required**
 - Full production stack with separate layers for agents, API, CRUD, services, and Pydantic schema validation
 - Supports **webhook and polling modes** with health checks and zero-downtime Docker deploys
 
-[![GitHub](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/RohitDeshmukh-1/Agentic-Task-Scheduler)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/🔭_View_Repository-1a0033?style=for-the-badge&logo=github&logoColor=b388ff)](https://github.com/RohitDeshmukh-1/Agentic-Task-Scheduler)
+
+</div>
 
 </details>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✦ &nbsp; GitHub Deep Space Telemetry
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                📡 GITHUB STATS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌑 &nbsp; Deep Space Telemetry
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitDeshmukh-1&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=7eb8f7&icon_color=4fc3f7&text_color=c8d8ff&border_color=1f3a5f&hide_border=false&count_private=true&include_all_commits=true"/>
+```
+    ·  ✧  ·  ★  ·  ·  ✦  ·  ·  ★  ·  ✧  ·  ✦
+      QUANTUM FLUCTUATIONS — REAL-TIME FEED
+    ★  ·  ✦  ·  ✧  ·  ·  ★  ·  ·  ✦  ·  ★  ·
+```
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohitDeshmukh-1&show_icons=true&theme=radical&bg_color=0d001a&title_color=b388ff&icon_color=7c4dff&text_color=e1bee7&border_color=4a148c&hide_border=false&count_private=true&include_all_commits=true&ring_color=7c4dff"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDeshmukh-1&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7eb8f7&text_color=c8d8ff&border_color=1f3a5f&hide_border=false&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitDeshmukh-1&layout=compact&theme=radical&bg_color=0d001a&title_color=b388ff&text_color=e1bee7&border_color=4a148c&hide_border=false&langs_count=8"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitDeshmukh-1&theme=tokyonight&background=0d1117&border=1f3a5f&ring=4fc3f7&fire=ff6b6b&currStreakLabel=7eb8f7&sideLabels=7eb8f7&dates=8899cc"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitDeshmukh-1&theme=radical&background=0d001a&border=4a148c&ring=b388ff&fire=ea80fc&currStreakLabel=b388ff&sideLabels=7c4dff&dates=9575cd&stroke=4a148c"/>
 
 <br/><br/>
 
@@ -201,19 +305,25 @@ class RohitDeshmukh:
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✦ &nbsp; Currently Transmitting — What I'm Learning
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 📚 CURRENTLY LEARNING                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🪐 &nbsp; Currently Transmitting — What I'm Learning
 
 <div align="center">
 
 ```
-  ★  ·  ·  ·  ✦  ·  ·  ·  ★  ·  ·  ✦  ·  ★
-       DEEP DIVE COORDINATES — 2025/26
-  ·  ·  ✦  ·  ·  ·  ·  ★  ·  ·  ·  ✦  ·  ·
+          ·  ✧  ·  ·  ★  ·  ✦  ·  ·  ·  ✧  ·
+     WARP COORDINATES — STARDATE 2025.26
+          ✦  ·  ·  ✧  ·  ·  ★  ·  ✦  ·  ·  ★
 ```
 
 </div>
+
+<div align="center">
 
 | 🛸 Domain | 🔬 What I'm Exploring |
 |---|---|
@@ -223,15 +333,29 @@ class RohitDeshmukh:
 | **System Design** | Designing for latency, throughput, and fault-tolerance in ML-serving systems |
 | **Production Mindset** | CI/CD for ML, model versioning, A/B testing frameworks, rollback strategies |
 
+</div>
+
 > 💡 *I don't just want to build models — I want to own the full loop: train → evaluate → ship → monitor → improve.*
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✦ &nbsp; Combat Record — Awards
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   🏆 AWARDS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌟 &nbsp; Combat Record — Galactic Awards
 
 <div align="center">
+
+```
+   ★  ·  ✦  ·  ·  ✧  ·  ★  ·  ✦  ·  ✧  ·  ★
+       DECORATIONS EARNED IN THE FIELD
+   ✧  ·  ★  ·  ✦  ·  ·  ★  ·  ✧  ·  ✦  ·  ✧
+```
+
+<br/>
 
 | 🏆 Achievement | 📅 Year | 🎯 Details |
 |---|---|---|
@@ -243,42 +367,60 @@ class RohitDeshmukh:
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✦ &nbsp; Activity Radar
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  📊 ACTIVITY GRAPH                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📡 &nbsp; Activity Radar — Warp Signature
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitDeshmukh-1&bg_color=0d1117&color=7eb8f7&line=4fc3f7&point=ffffff&area=true&area_color=1f3a5f&border_color=1f3a5f&hide_border=false&custom_title=Contribution%20Activity%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitDeshmukh-1&bg_color=0d001a&color=b388ff&line=7c4dff&point=ea80fc&area=true&area_color=1a0033&border_color=4a148c&hide_border=false&custom_title=Contribution%20Activity%20—%20Gravitational%20Waves%20Detected"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   🌌 FOOTER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-  ·  ✦  ·  ★  ·  ·  ·  ✦  ·  ·  ★  ·  ✦  ·  ·  ★  ·  ✦  ·  ·
+   ★  ·  ✧  ·  ·  ✦  ·  ★  ·  ·  ✧  ·  ✦  ·  ★  ·  ·  ✧  ·  ★
 
-    "The cosmos is within us. We are made of star-stuff.
-     We are a way for the universe to know itself."
-                                        — Carl Sagan
+      ╔═══════════════════════════════════════════════════╗
+      ║                                                   ║
+      ║    "Two possibilities exist: either we are        ║
+      ║     alone in the Universe or we are not.          ║
+      ║     Both are equally terrifying."                 ║
+      ║                                                   ║
+      ║                        — Arthur C. Clarke         ║
+      ║                                                   ║
+      ╚═══════════════════════════════════════════════════╝
 
-  ·  ★  ·  ✦  ·  ·  ·  ★  ·  ·  ✦  ·  ·  ★  ·  ·  ✦  ·  ★  ·
+   ·  ✦  ·  ★  ·  ✧  ·  ·  ✦  ·  ★  ·  ·  ✧  ·  ✦  ·  ★  ·  ✦
 ```
 
 <br/>
 
-**Open to AI/ML internships, remote freelance roles & early-stage startup opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-deshmukh-735b82203/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_a_Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.deshmukh@mitwpu.edu.in)
+**🌀 Open to AI/ML internships, remote freelance roles & early-stage startup opportunities 🌀**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a1a3e,100:0a0a1a&height=120&section=footer&reversal=false"/>
+[![LinkedIn](https://img.shields.io/badge/🌐_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-deshmukh-735b82203/)
+&nbsp;
+[![Medium](https://img.shields.io/badge/📖_Read_My_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohitdeshmukh318)
+&nbsp;
+[![Email](https://img.shields.io/badge/📡_Send_a_Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.deshmukh@mitwpu.edu.in)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0a001a,30:0d0026,50:1a0033,70:0d0026,85:0a001a,100:000000&height=130&section=footer&reversal=false"/>
 
 </div>
